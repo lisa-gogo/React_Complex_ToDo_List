@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.todo {
+  display: flex;
+}
+
+#processing {
+  display: flex;
+}
+#processing > div {
+  margin: 8px;
+  margin-bottom: none;
+}
